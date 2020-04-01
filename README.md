@@ -1,4 +1,3 @@
-#AppDev-Calculator
 This is a calculator app I am implementing to learn about app development.
 
 Q. What can it do currently? 
